@@ -1,1 +1,1 @@
-puts "ilk deneme"
+puts "2+3"
